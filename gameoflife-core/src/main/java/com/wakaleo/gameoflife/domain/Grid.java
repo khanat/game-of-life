@@ -4,8 +4,8 @@ import static com.wakaleo.gameoflife.domain.Cell.DEAD_CELL;
 import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
 
 public class Grid {
-// tdd-labs
-    private static final int DEFAULT_ROW_COUNT = 3;
+//master
+	private static final int DEFAULT_ROW_COUNT = 3;
     private static final int DEFAULT_COLUMN_COUNT = 3;
 
     private Cell[][] cells;
