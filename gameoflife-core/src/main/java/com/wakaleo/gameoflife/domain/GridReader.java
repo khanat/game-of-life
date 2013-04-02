@@ -2,7 +2,7 @@ package com.wakaleo.gameoflife.domain;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// my first comment
 public class GridReader {
 
     private static final String NEW_LINE = System.getProperty("line.separator");
